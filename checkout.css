@@ -1,0 +1,18 @@
+body {
+  font-family: Sans-Serif;
+}
+
+#start-payment-button {
+    cursor: pointer;
+    position: relative;
+    background-color: green;
+    color: #fff;
+    max-width: 45%;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    transition: all .1s ease-in;
+    text-decoration-color: black;
+}
